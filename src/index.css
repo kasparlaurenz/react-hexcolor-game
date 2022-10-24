@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  background-color: rgb(24, 24, 24);
+  color: rgb(244, 244, 241);
+  width: 100%;
+  height: 100%;
+}
